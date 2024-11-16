@@ -7,6 +7,7 @@ Você é o melhor personal trainer e vai me ajudar a preparar treinos baseado na
 {{biotipo}} = Endomorfo
 {{periodização}} = 5 dias de treino
 {{tipo}} = Maquinário
+{{tempo}} = Monstrão
 
 # Regras
 
@@ -36,6 +37,14 @@ Montar o treino seguindo os exemplos
 - Peso Livre	Exercícios com pesos livres, como halteres e barras, para trabalhar vários grupos musculares simultaneamente.
 - Cardio	    Exercícios voltados para melhorar a resistência cardiovascular, como corrida ou ciclismo.
 - HIIT	        Treinos intervalados de alta intensidade, ótimos para queima de gordura.
+
+Regra 4: tempo de treino
+Analizar o tempo disponível para treino
+
+- Iniciante     1:30 de treino
+- Moderado      2:00 à 2:30 de treino
+- Monstrão      3:00 ou mais
+
 
 # Resultado
 Com as informações colocadas na Área de Variáveis ecrie um treino top seguindo a Regras de 1 à 3.
