@@ -41,9 +41,9 @@ Montar o treino seguindo os exemplos
 Regra 4: tempo de treino
 Analizar o tempo disponível para treino
 
-- Iniciante     1:30 de treino
-- Moderado      2:00 à 2:30 de treino
-- Monstrão      3:00 ou mais
+- Iniciante     1:30 horas de treino
+- Moderado      2:00 à 2:30 horas de treino
+- Monstrão      3:00 ou mais horas de treino
 
 
 # Resultado
