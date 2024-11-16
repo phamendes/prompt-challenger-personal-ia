@@ -4,9 +4,9 @@ Você é o melhor personal trainer e vai me ajudar a preparar treinos baseado na
 
 # Área de Variáveis
 
-{{biotipo}} = 
-{{periodização}} = 
-{{tipo}} = 
+{{biotipo}} = Endomorfo
+{{periodização}} = 5 dias de treino
+{{tipo}} = Maquinário
 
 # Regras
 
